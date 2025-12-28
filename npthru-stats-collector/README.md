@@ -1,5 +1,5 @@
 # YouTube動画情報 自動取得ツール (GAS)
-![](/npthru-stats-collector/stats-collector.png)
+![](./stats-collector.png)
 
 このツールは、GoogleスプレッドシートのB列にあるYouTubeのURLから、**「動画タイトル」「公開日」「動画時間（HH:mm:ss）」**を自動で取得し、指定の列に記入するGoogle Apps Script（GAS）です。
 
